@@ -1,7 +1,7 @@
 ## ¡Hola, Hola! 👋
 
 Soy Raquel, Data Analyst.
-Quiero darte la bienvenida a mi pequeño rincón en construcción, donde encontrarás todos mis proyectos clasificados por categorías.
+Quiero darte la bienvenida a mi pequeño rincón en construcción, donde encontrarás todos mis proyectos realizados.
 
 Juntos crecemos más y mejor así que para cualquier duda, sugerencia y/o comentario, por favor, siéntete libre de [escribirme por correo](mailto:lopezmartinezraquel0@gmail.com) y estaré encantada y agradecida de leer tu mensaje 😊
 
